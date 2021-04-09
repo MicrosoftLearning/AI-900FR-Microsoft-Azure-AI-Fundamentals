@@ -1,6 +1,6 @@
 # Exercices de la formation Microsoft Azure AI - Notions fondamentales
 
-Ce référentiel contient les exercices pratiques de laboratoire du cours Microsoft [AI-900 *Microsoft Azure AI - Notions Fondamentales*](https://docs.microsoft.com/en-us/learn/certifications/courses/ai-900t00) et des [modules autodidactes sur Microsoft Learn](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals). Les laboratoires sont conçus pour accompagner les supports de cours d'apprentissage et vous permettre de vous exercer à utiliser les technologies qu'ils décrivent. 
+Ce référentiel contient les exercices pratiques de laboratoire du cours Microsoft [AI-900 *Microsoft Azure AI - Notions Fondamentales*](https://docs.microsoft.com/fr-fr/learn/certifications/courses/ai-900t00) et des [modules autodidactes sur Microsoft Learn](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals). Les laboratoires sont conçus pour accompagner les supports de cours d'apprentissage et vous permettre de vous exercer à utiliser les technologies qu'ils décrivent. 
 
 ## Que faisons-nous ?
 
