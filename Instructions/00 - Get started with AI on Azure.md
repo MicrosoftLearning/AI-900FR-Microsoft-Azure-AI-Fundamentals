@@ -4,8 +4,10 @@ lab:
 ---
 
 ## Instructions
-Dans ce labo, nous allons examiner les directives pour une IA responsable.
+Examinons les principes Microsoft d’une IA responsable
 
-1.	Accédez à la démo [Guidelines for Human-AI Interaction demo](https://aka.ms/hci-demo)
-2.	Choisissez des cartes dans chaque paquet et passez en revue les exemples de scénarios
-3.	Identifiez le ou les principes de l’IA responsable illustrés par les exemples
+1.	Consultez l’article [Comprendre ce qu’est l’IA responsable](https://docs.microsoft.com/learn/modules/get-started-ai-fundamentals/7-understand-responsible-ai?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.wwl.get-started-with-artificial-intelligence-on-azure).
+2.	Examinez la description de chacun des six principes énoncés.
+3.	Pouvez-vous préciser ce qui différencie chacun de ces six principes ?
+
+Pour en savoir plus sur les principes de l’IA de Microsoft [cliquez ici](https://www.microsoft.com/ai/responsible-ai).
