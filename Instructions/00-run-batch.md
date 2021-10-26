@@ -6,4 +6,4 @@
 
 ![Icône Visual Studio Code](./images/vscode.jpg)
 
-3. Lorsqu’il s’ouvre, vous devriez voir le projet MSLEARN-AI900 sur le panneau de gauche. Ce fichier contient les labos du cours. 
+3. Lorsqu’il s’ouvre, vous devriez voir le projet MSLEARN-AI900 sur le panneau de gauche. Ce dossier contient les labos du cours. 
