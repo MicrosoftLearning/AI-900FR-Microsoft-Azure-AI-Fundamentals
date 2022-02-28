@@ -1,3 +1,11 @@
+**Important Notice!**
+
+This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/AI-900-AIFundamentals.fr-FR) on 4 February 2022 . We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
+After a short interval, this repo will be archived.
+
+**Contributions**
+
+At this time, we are not accepting external contributions to this repo. If you have suggestions or spot any errors, please create a pull request or report an issue on the [new repo](https://github.com/MicrosoftLearning/AI-900-AIFundamentals.fr-FR).
 # Exercices de la formation Microsoft Azure AI - Notions fondamentales
 
 Ce référentiel contient les exercices pratiques de laboratoire du cours Microsoft [AI-900 *Microsoft Azure AI - Notions Fondamentales*](https://docs.microsoft.com/fr-fr/learn/certifications/courses/ai-900t00) et des [modules autodidactes sur Microsoft Learn](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals). Les laboratoires sont conçus pour accompagner les supports de cours d'apprentissage et vous permettre de vous exercer à utiliser les technologies qu'ils décrivent. 
